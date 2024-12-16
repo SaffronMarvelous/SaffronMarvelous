@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SaffronMarvelous
-- 👀 I’m interested in backend development, healthcare data, workflow automation, and pictures of your dog
+- 👀 I’m interested in backend development, data visualization, workflow automation, and pictures of your dog
 - 🌱 I’m currently learning how to meditate
 - 😄 Pronouns: he/him
 <!---
